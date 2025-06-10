@@ -21,11 +21,11 @@ CHECKPOINT_LOC = f"/Users/lakshimi.mariappan/Desktop/Personal/Project/Bank_V1_28
 # ============================ #
 #       POSTGRES CONFIG       #
 # ============================ #
-POSTGRES_USER = "postgress"
-POSTGRES_PASSWORD = "postgress"
+POSTGRES_USER = "admin"
+POSTGRES_PASSWORD = "admin"
 POSTGRES_DB = "mydatabase"
-POSTGRES_HOST = "localhost"
-POSTGRES_PORT = "5433"
+POSTGRES_HOST = "192.168.49.1"
+POSTGRES_PORT = "5432"
 POSTGRES_TABLE = "bank_json"
 POSTGRES_HISTORY_TABLE = "bank_json_history"
 POSTGRESS_TABLE_PKID = "MsgId"
